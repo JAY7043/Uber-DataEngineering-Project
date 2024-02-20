@@ -13,12 +13,19 @@ Lucid Chart for developing an ERD (Entity-Relationship Diagram) to understand da
 **Getting Started**
 
 **To get started with this project, follow these steps:**
+
 Step-1: import the .csv file to python then did data wrangling in pandas. 
+
 Step-2: In the lucid chart I made the ERD of Uber data with the primary key and foreign keys connected.
+
 Step-3: Then open the account on google cloud and made new VM instance and connected through SSH and connected my mage.ai transformed data to Google BigQuery.
+
 Step-4: installed mage.ai on google VM and did data loading and data transforming and data exporting to Google Big Query in Mage.ai
+
 Step-5: Then wrote some SQL script to get the meaningful data insight and made some joins in the script.
+
 Step-6: Then Created account on Looker studio and then connected Google BigQuery To Looker Studio to get the data directly.
+
 Step-7: After getting all the data in Looker studio I created data cards, maps and chart to get the meaningful insight from the data. 
 
 Explore the insights and findings generated.
